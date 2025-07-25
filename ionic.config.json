@@ -1,0 +1,7 @@
+{
+  "name": "universal_blocker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
